@@ -1,12 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Greens - best software <font></h1>
+<h1><font color='red'> Welcome to Game Mano - best solution<font></h1>
 
-<h2> Arun - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch greens tech is one of the leading instiute ALL the best... </h2>
+<h2>Well take care of your gaming needs from start to finish</h2>
 
-<a href=" http://www.greenstechnologys.com/contact.php">Click Here To See Greens Training Schedules</a>
+<a href=" https://r.search.yahoo.com/_ylt=Awr1ThgzLUZmc2Mx3Vq7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1715903923/RO=10/RU=http%3a%2f%2fgamemano.com%2f/RK=2/RS=pecVXO2si2qnFAeZWWoE16wP81Q-">Click Here To See Game Mona </a>
   
-  <h2> Call Us : + 91 - 99 65 47 60 18 </h2>
 
 </body>
 </html>
